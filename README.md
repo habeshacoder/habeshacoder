@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/habeshacoder)
 <h1 align="center">Hi 👋, I'm habeshacoder</h1>
 <h3 align="center">A Passionate Fullstack Mobile App Developer from Ethiopia</h3>
- <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Description of the image" width="200" height="200">
+<!--  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Description of the image" width="200" height="200"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habeshacoder&label=Profile%20views&color=0e75b6&style=flat" alt="habeshacoder" /> </p>
 
 - 🔭 I’m currently working on **P2P Mobile App**
