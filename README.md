@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Djano, Django REST Framwork**
 
-- 👨‍💻 All of my projects are available at [https://habeshacoder.netlify.app/](https://habeshacoder.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adoniportfolio.netlify.app/](https://adoniportfolio.netlify.app/)
 
 - 💬 Ask me about **Flutter, Django, Django REST Framwork**
 
 - 📫 How to reach me **adoniashaile1@gmail.com**
 
-- 📄 Know about my experiences [https://habeshacoder.netlify.app/](https://habeshacoder.netlify.app/)
+- 📄 Know about my experiences [https://adoniportfolio.netlify.app/](https://adoniportfolio.netlify.app/)
 
 - ⚡ Fun fact **I am Funny**
 
